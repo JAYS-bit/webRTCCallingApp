@@ -1,5 +1,13 @@
 # WebRTCCallingApp
 
+
+
+# Video Link :
+
+Check out this link for a demonstration of how the app works:  
+[Video Link](https://github.com/JAYS-bit/webRTCCallingApp/blob/master/AppDemoVideoMuted.mp4)
+
+
 WebRTCCallingApp is an Android application that leverages the power of WebRTC to enable real-time audio and video communication between users. This README provides an overview of the project, its features, and instructions for setting up and running the app.
 
 ## Table of Contents
@@ -115,10 +123,5 @@ Thank you for using WebRTCCallingApp! If you have any questions or need assistan
 <img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/firestoreApplicaiton2.png" max-height="50px">
 
 
-
-# Video Link :
-
-Check out this link for a demonstration of how the app works:  
-[Video Link](https://github.com/JAYS-bit/webRTCCallingApp/blob/master/AppDemoVideoMuted.mp4)
 
 
