@@ -73,8 +73,7 @@ Thank you for using WebRTCCallingApp! If you have any questions or need assistan
 
 # Images 
 
-
-# Images for reference :
-
 ## Peer 1
+
+
 
