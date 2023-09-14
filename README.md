@@ -73,15 +73,6 @@ Thank you for using WebRTCCallingApp! If you have any questions or need assistan
 
 # Images 
 
-## Peer 1
-
-<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_0.jpeg" max-height="50px" >
-<img src="[https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_1.jpeg](https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_1.jpeg)" max-height="50px" >
-<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_2.jpeg" max-height="50px" >
-<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_3.jpeg" max-height="50px" >
-<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer_2_1_otp_verification.jpeg" max-height="50px" >
-
-
 ## Peer2
 
 <img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer_2_6.jpeg" max-height="50px" >
@@ -100,6 +91,17 @@ Thank you for using WebRTCCallingApp! If you have any questions or need assistan
 <<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer_2_1.jpeg" max-height="50px" >
 
 <img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer_2_0.jpeg" max-height="50px" >
+
+
+## Peer 1
+
+<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_0.jpeg" max-height="50px" >
+<img src="[https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_1.jpeg](https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_1.jpeg)" max-height="50px" >
+<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_2.jpeg" max-height="50px" >
+<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_3.jpeg" max-height="50px" >
+<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer_2_1_otp_verification.jpeg" max-height="50px" >
+
+
 
 
 
