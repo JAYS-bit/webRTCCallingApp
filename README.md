@@ -11,7 +11,7 @@ WebRTCCallingApp is an Android application that leverages the power of WebRTC to
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -65,10 +65,12 @@ Follow these instructions to set up and run the WebRTCCallingApp on your Android
 
 We welcome contributions to improve WebRTCCallingApp. Feel free to open issues, submit pull requests, or provide feedback. For major changes, please discuss them in advance to ensure alignment with the project's goals.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Thank you for using WebRTCCallingApp! If you have any questions or need assistance, please don't hesitate to contact us or open an issue on the GitHub repository. We hope you find this app helpful for your real-time communication needs.
+
+
+# Images for reference :
+
+## Peer 1
+
