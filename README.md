@@ -75,7 +75,7 @@ Thank you for using WebRTCCallingApp! If you have any questions or need assistan
 
 ## Peer 1
 
-<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_0.jpeg"  title="ScreenShot-1" max-height="100px">
+<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_0.jpeg" >
 
 
 
