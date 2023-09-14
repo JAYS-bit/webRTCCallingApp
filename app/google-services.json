@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697264419204",
+    "project_id": "myotpverification-ae639",
+    "storage_bucket": "myotpverification-ae639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697264419204:android:e919c405809bbcb6392dd1",
+        "android_client_info": {
+          "package_name": "com.example.logup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkK16l40vovLcDIXOH0C35JKnsO8ZrD9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

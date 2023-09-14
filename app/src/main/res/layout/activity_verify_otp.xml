@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".VerifyOTP">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter OTP"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="32dp"
+        android:gravity="center" />
+
+    <!-- Add six EditText fields for OTP entry -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/otp1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1"
+            android:hint="1"
+            android:inputType="number"
+            android:nextFocusForward="@id/otp2" />
+
+        <EditText
+            android:id="@+id/otp2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="2"
+            android:inputType="number"
+            android:nextFocusForward="@id/otp3"
+            android:layout_marginEnd="8dp"/>
+
+        <EditText
+            android:id="@+id/otp3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="3"
+            android:inputType="number"
+            android:nextFocusForward="@id/otp4"
+            android:layout_marginEnd="8dp"/>
+
+        <EditText
+            android:id="@+id/otp4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="4"
+            android:inputType="number"
+            android:nextFocusForward="@id/otp5"
+            android:layout_marginEnd="8dp"/>
+
+        <EditText
+            android:id="@+id/otp5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="5"
+            android:inputType="number"
+            android:nextFocusForward="@id/otp6"
+            android:layout_marginEnd="8dp"/>
+
+        <EditText
+            android:id="@+id/otp6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="6"
+            android:inputType="number"
+            android:nextFocusForward="@null"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnverifyOTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Verify OTP"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="32dp"
+        android:layout_gravity="center" />
+
+</LinearLayout>

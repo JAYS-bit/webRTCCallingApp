@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".GetOTP">
+
+    <!-- Add the CountryCodePicker widget -->
+    <com.hbb20.CountryCodePicker
+        android:id="@+id/ccp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <ImageView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/baseline_local_phone_24"
+        android:contentDescription="Phone Icon"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter your phone number"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="32dp"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone Number"
+        android:inputType="number"
+        android:backgroundTint="@color/colorAccent"
+        android:layout_marginBottom="16dp"
+        android:padding="12dp"
+        android:fontFamily="sans-serif"
+        android:textSize="18sp"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/btngenerateOTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate OTP"
+        android:textSize="20sp"
+        android:textColor="#673AB7"
+         android:backgroundTint="#BECA44"
+        android:layout_marginBottom="16dp"
+         android:padding="12dp"
+         android:fontFamily="sans-serif-medium"
+        android:gravity="center"/>
+
+</LinearLayout>
