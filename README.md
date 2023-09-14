@@ -76,6 +76,7 @@ Thank you for using WebRTCCallingApp! If you have any questions or need assistan
 ## Peer2
 
 <img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer_2_6.jpeg" max-height="50px" >
+<img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer1_4.jpeg" max-height="50px">
 
 <img src="https://github.com/JAYS-bit/webRTCCallingApp/blob/master/peer_2_1_otp_verification.jpeg" max-height="50px" >
 
